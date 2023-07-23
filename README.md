@@ -1,0 +1,4 @@
+# Automating_social_post
+Automate your social media post
+
+Developed an innovative automatic post maker tailored for stock market enthusiasts, utilizing cutting-edge web scraping technology. Extracted relevant data from prominent stock websites, such as Google Finance, and seamlessly integrated it into our personalized platform. The service effortlessly converted the extracted text into downloadable JPEG/PNG files, offering a variety of pre-designed templates for user customization. This project effectively addresses the needs of content creators who regularly post on platforms like Instagram and LinkedIn. By simplifying the post editing process, users can now select their desired websites for data extraction and instantly generate eye-catching image posts with just one click of the download button."
